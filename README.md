@@ -1,5 +1,5 @@
 
-## Hi there 
+# Hi there 	:wave:
 
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
 
