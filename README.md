@@ -5,23 +5,16 @@ My name is Bryan Florentino and I'm from Dominican Republic. I'm a software deve
 
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
 
-I currently work with technologies such as:
+## Languages and tools: 
 
-![image](https://user-images.githubusercontent.com/77745940/129461045-e0b63c4d-b65c-490a-ba50-a28b1f046c9a.png)
-![image](https://user-images.githubusercontent.com/77745940/129461059-911b32d7-6ff8-4f10-9929-a519dfca9c3e.png)
-![image](https://user-images.githubusercontent.com/77745940/129461074-f510979c-0255-4c41-acc2-5a950e64f7f1.png)
-![image](https://user-images.githubusercontent.com/77745940/129461087-512fe8f6-22f3-4693-a249-14e9881d02a8.png)
-![image](https://user-images.githubusercontent.com/77745940/129461103-bd7d1cf2-f61e-4246-bf38-7a503dae2f49.png)
+<a href="https://icons8.com/icon/13441/python"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>/a>
+<a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+<a href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://icons8.com/icon/12599/github"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+<a href="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/></a>
+  
+  
+## My github stats:
 
-
-
-
-
-
-
-
-
-
-
-
-
+![bryan'stats](https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=dark)
