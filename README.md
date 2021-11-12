@@ -1,5 +1,5 @@
 
-# Console.WriteLine("Hello World :wave:);
+# Console.WriteLine("Hello World :wave:");
 
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
