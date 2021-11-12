@@ -1,17 +1,10 @@
 
-# Hi there 	:wave:
+# Console.WriteLine("Hello World :wave:);
 
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
 
-  
-## My github stats:
-
-<img align = "left" width = "47%" height = "220px" src = "https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=dracula">
-<img align = "left" width="48%" height = "220px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&layout=compact">
-
-
-## Languages and Tools:
+## Languages and Tools 👨‍💻
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,6 +17,9 @@ I speack two languages: English and Spanish (:dominican_republic:, :us:).
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+  
+## My github stats: 💹 
 
+![bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=tokyonight)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&layout=compact&theme=tokyonight)
