@@ -2,20 +2,28 @@
 # Hi there 	:wave:
 
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
-
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
 
-## Languages and tools: 
-
-<a href="https://icons8.com/icon/13441/python"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a href="https://icons8.com/icon/45490/c-sharp-logo-2"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></a>
-<a href="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
-<a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-<a href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a href="https://icons8.com/icon/12599/github"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-<a href="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/></a>
-  
   
 ## My github stats:
 
-![bryan'stats](https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=dark)
+<img align = "left" width = "47%" height = "220px" src = "https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=dracula">
+<img align = "left" width="48%" height = "220px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&layout=compact">
+
+
+## Languages and Tools:
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
