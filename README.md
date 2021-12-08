@@ -4,6 +4,11 @@
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
 
+Do you want to contact me? Well, you can find me in Linkedin:
+
+https://www.linkedin.com/in/bryan-xavier-florentino-montero-34b00620b/
+
+
 ## Languages and Tools 👨‍💻
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
