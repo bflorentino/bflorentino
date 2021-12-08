@@ -4,7 +4,7 @@
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software development student who loves this word.
 I speack two languages: English and Spanish (:dominican_republic:, :us:).
 
-Do you want to contact me? Well, you can find me in Linkedin:
+Do you want to get in touch with me? Well, you can find me in Linkedin:
 
 https://www.linkedin.com/in/bryan-xavier-florentino-montero-34b00620b/
 
