@@ -32,10 +32,14 @@ https://www.linkedin.com/in/bryan-xavier-florentino-montero-34b00620b/
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
   
 ## My github stats: 💹 
 
 ![bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&layout=compact&theme=tokyonight)
+
+
+## My github streak: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bflorentino&theme=tokyonight_duo)](https://git.io/streak-stats)
