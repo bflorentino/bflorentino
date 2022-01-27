@@ -35,6 +35,8 @@ https://www.linkedin.com/in/bryan-xavier-florentino-montero-34b00620b/
   
 ## My github stats: 💹 
 
+![](https://komarev.com/ghpvc/?username=bflorentino)
+
 ![bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bflorentino&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&layout=compact&theme=tokyonight)
@@ -43,3 +45,4 @@ https://www.linkedin.com/in/bryan-xavier-florentino-montero-34b00620b/
 ## My github streak: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bflorentino&theme=tokyonight_duo)](https://git.io/streak-stats)
+
