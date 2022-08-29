@@ -2,7 +2,7 @@
 # Console.WriteLine("Hello World :wave:");
 
 My name is Bryan Florentino and I'm from Dominican Republic. I'm a software developer who loves this word.
-I speack two languages: English and Spanish (:dominican_republic:, :us:). I'm interested in Full Stack web development
+I speak two languages: English and Spanish (:dominican_republic:, :us:). I'm interested in Full Stack web development
 
 Do you want to get in touch with me? Well, you can find me in Linkedin:
 
