@@ -2,7 +2,7 @@
 # Console.WriteLine("Hello World :wave:");
 
 # 💫 About Me:
-My name is Bryan Florentino, from the Dominican Republic and I'm a technology enthusiastic. I'm a web developer interested in Full Stack Web Development
+My name is Bryan Florentino, from the Dominican Republic and I'm a person highly interested in technolgy. I'm a web developer interested in Full Stack Web Development
 
 
 ## 🌐 Socials:
