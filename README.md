@@ -16,4 +16,4 @@ My name is Bryan Florentino, from the Dominican Republic and I'm a person highly
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bflorentino&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bflorentino&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bflorentino&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
